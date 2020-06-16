@@ -1,0 +1,1 @@
+"# gama-curso-typescript" 
